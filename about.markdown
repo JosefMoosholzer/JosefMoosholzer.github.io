@@ -6,9 +6,9 @@ permalink: /about/
 
 Hey! My name is **Josef Alexander Moosholzer**, and I am an aspiring **Data Analyst**.
 
+<img title="Profile Picture" src="https://user-images.githubusercontent.com/84154207/196918686-9b3225c2-ffb4-43b0-ae66-b98fa3109c87.png" alt="transparent profile picture" width="225">
 
 
-<img title="" src="https://user-images.githubusercontent.com/84154207/196918672-d2da1b03-c073-4cc6-8278-5cd92e212008.jpg" alt="Profile Picture" width="225">
 
 If you have not read my CV yet, here is a quick summary:
 
@@ -16,13 +16,13 @@ If you have not read my CV yet, here is a quick summary:
 
 - Graduated in 2014 from the European School of Munich
 
-- 
+- Achieved my **Bachelor's degree in Business Administration** in 2018 at the Ludwig-Maximilian
 
 - Graduated in 2022 with a **M.Sc. in Life Science Economics and Policy** from the Technical University of Munich.
-
-- Master Thesis: *The German milk market, the role of socio-economic status and prospects of milk alternatives.*
-
-- Finale grade: 1,79 (German grading system)
+  
+  - Master Thesis: *The German milk market, the role of socio-economic status and prospects of milk alternatives.*
+  
+  - Finale grade: 1,79 (German grading system)
 
 - Currently enrolled as a **student in Information Systems** at the Technical University of Munich.
 
@@ -67,5 +67,3 @@ If you have not read my CV yet, here is a quick summary:
   - English (Professional level)
   
   - Spanish (Advanced)
-
-Contact me: [jamoosholzer@hotmail.de](mailto:jamoosholzer@hotmail.de)
