@@ -8,11 +8,7 @@ Hey! My name is **Josef Alexander Moosholzer**, and I am an aspiring **Data Anal
 
 
 
-<img title="" src="file:///Users/seppito/JosefMoosholzer.github.io/_images/profile_backgr.jpg" alt="profile_backgr.jpg" width="201">
-
-<img title="" src="file:///Users/seppito/JosefMoosholzer.github.io/_images/profile_transp.png" alt="profile_transp.png" width="206">
-
-`<img src="_images/profile_transp.png" alt="Profile Picture"/>
+<img title="" src="https://user-images.githubusercontent.com/84154207/196918672-d2da1b03-c073-4cc6-8278-5cd92e212008.jpg" alt="Profile Picture" width="225">
 
 If you have not read my CV yet, here is a quick summary:
 
@@ -20,7 +16,7 @@ If you have not read my CV yet, here is a quick summary:
 
 - Graduated in 2014 from the European School of Munich
 
-- Achieved my **Bachelor's degree in Business Administration** in 2018 at the Ludwig-Maximilian University of Munich.
+- 
 
 - Graduated in 2022 with a **M.Sc. in Life Science Economics and Policy** from the Technical University of Munich.
 
