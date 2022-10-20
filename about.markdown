@@ -4,15 +4,72 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hey! My name is **Josef Alexander Moosholzer**, and I am an aspiring **Data Analyst**.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+<img title="" src="file:///Users/seppito/JosefMoosholzer.github.io/_images/profile_backgr.jpg" alt="profile_backgr.jpg" width="201">
+
+<img title="" src="file:///Users/seppito/JosefMoosholzer.github.io/_images/profile_transp.png" alt="profile_transp.png" width="206">
+
+`<img src="_images/profile_transp.png" alt="Profile Picture"/>
+
+If you have not read my CV yet, here is a quick summary:
+
+## Academic experience
+
+- Graduated in 2014 from the European School of Munich
+
+- Achieved my **Bachelor's degree in Business Administration** in 2018 at the Ludwig-Maximilian University of Munich.
+
+- Graduated in 2022 with a **M.Sc. in Life Science Economics and Policy** from the Technical University of Munich.
+
+- Master Thesis: *The German milk market, the role of socio-economic status and prospects of milk alternatives.*
+
+- Finale grade: 1,79 (German grading system)
+
+- Currently enrolled as a **student in Information Systems** at the Technical University of Munich.
+
+## Professional experience
+
+- Since 02 / 2020: *Working student* at IVECO in **Business Intelligence & Reporting**
+  
+  - Establishment and maintenance of data models in Excel through PowerQuery and PowerPivot (DAX).
+  
+  - Automating queries from the company's data warehouse.
+  
+  - Creating dynamic sales reports with *drill-through* functionalities.
+  
+  - Programmatic distribution of over 300 B2B sales reports.
+  
+  - Programmatic research of market prices by competing retailers, see <a href="/project/Price-research-e4545de4-2562-4c39-a1c3-3a0b212285e5">**Price Research**</a> project.
+
+- From 04 / 2015 to 03 / 2016: *Working student* at Bet IT Best as a **Social Media & Content Manager**
+  
+  - Updating and creating datasets in the backend.
+  
+  - Reviewing and publication of sports articles on the most important social media channels.
+  
+  - Exploring RSS-feeds to improve and expand sports news offerings.
+
+## Further knowledge & skills
+
+- **Auto-didactic learning** through *Skillshare* and *Codecademy*
+  
+  - **Excel**, **PowerQuery**, **PowerPivot**, VBA (Makros) & **PowerBI**
+  
+  - <a href="https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/18580789eaba28f09e116f4fc2acec44">**Python**</a>, <a href="https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/5cafb2d937090210d7df3652">**SQL**</a> & **R**
+  
+  - <a href="https://www.codecademy.com/profiles/Seppito96/certificates/5ff882c953c2ed000e17bf1d">**Data Science: Analytics Specialist**</a>
+  
+  - <a href="https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/c87ba0541f8be78bc2f4ba1128233f6f">Command Line</a>, <a href="https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7">HTML</a>
+
+- Languages
+  
+  - German (Native speaker)
+  
+  - English (Professional level)
+  
+  - Spanish (Advanced)
+
+Contact me: [jamoosholzer@hotmail.de](mailto:jamoosholzer@hotmail.de)
