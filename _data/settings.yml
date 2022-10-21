@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: by Josef A. Moosholzer
 
 hero_settings:
-  overlay_opacity: 0.6
+  overlay_opacity: 0.4
 
 post_settings:
   grid_spacing: 10
@@ -61,7 +61,7 @@ social_settings:
   linkedin_url: 'https://www.linkedin.com/in/josef-alexander-moosholzer-819050201/'
 
 color_settings:
-  background_color: '#eeeeee'
+  background_color: '#a6c1da'
   background_alt_color: '#000000'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'

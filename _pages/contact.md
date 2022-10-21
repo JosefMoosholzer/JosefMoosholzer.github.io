@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: You can directly contact.
+subtitle: Give me feedback or get in touch with me.
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/contact.jpg
 ---
