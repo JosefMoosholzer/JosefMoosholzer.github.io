@@ -32,14 +32,13 @@ I followed the classic ETL procedure
 ### Extract
 
 As mentioned before, I used the Selenium library, for the reason that it was necessary to click each *job-beacon* in order to open up the job description.
-I will not go in-depth for the scraping part once more (see Price Research project). However, the code is still available in the files under *IndeedScraper.py*. For it to work on your computer, you require the latest version of both, the [Microsoft Edge driver]("https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/") and the Microsoft Edge browser. The file needs to be started through the command line, whilst passing an argument in for the number of pages for each job, that should be scraped. For example, 5 pages...
+I will not go in-depth for the scraping part once more (see Price Research project). However, the code is still available for [download](/downloads/IndeedScraper.py). For it to work on your computer, you require the latest version of both, the [Microsoft Edge driver]("https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/") and the Microsoft Edge browser. The file needs to be started through the command line, whilst passing an argument in for the number of pages for each job, that should be scraped. For example, 5 pages...
 
 ```bash
 python IndeedScraper.py 5
 ```
 
 For this project, I spread the scraping over many days, for two reasons:
-
 - Not being flagged by Indeed as a bot (in case they had an algorithm that was trying to catch some).
 - Still achieving a great sample size.
-  The result were dozens of csv-files that needed to be merged first.
+The result were dozens of [csv-files](/downloads/data.zip) that needed to be merged first.
