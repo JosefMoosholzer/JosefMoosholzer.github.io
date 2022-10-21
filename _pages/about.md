@@ -5,7 +5,9 @@ description: About me page & CV, Josef A. Moosholzer.
 featured_image: /images/demo/about.jpg
 ---
 
-Hey! My name is **Josef Alexander Moosholzer**, and I am an aspiring **Data Analyst**.
+# Hey! 👋🏼
+
+My name is **Josef Alexander Moosholzer**, and I am an aspiring **Data Analyst**.
 
 ## Academic experience
 
