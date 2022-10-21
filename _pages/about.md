@@ -10,9 +10,9 @@ featured_image: /images/demo/about.jpg
 My name is **Josef Alexander Moosholzer**, and I am an aspiring **Data Analyst**.
 
 ## Academic experience
-
+- test
 - Graduated in 2014 from the European School of Munich
-
+- asdf
 - Achieved my **Bachelor's degree in Business Administration** in 2018 at the Ludwig-Maximilian
 
 - Graduated in 2022 with a **M.Sc. in Life Science Economics and Policy** from the Technical University of Munich.
