@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Portfolio Projects by Josef A. Moosholzer
+  site_title: Personal Projects and Blog (settings)
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: by Josef A. Moosholzer
 
 hero_settings:
   overlay_opacity: 0.8

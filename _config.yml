@@ -1,4 +1,4 @@
-site: Personal Jekyll Theme
+site: Personal Projects and Blog
 
 url: 
 baseurl: 
@@ -41,7 +41,6 @@ defaults:
       layout: "project"
 
 markdown: kramdown
-linkedin
 
 kramdown:
   input: GFM
