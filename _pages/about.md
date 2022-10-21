@@ -53,7 +53,7 @@ My name is **Josef Alexander Moosholzer**, and I am an aspiring **Data Analyst**
   
   - [**Python**](https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/18580789eaba28f09e116f4fc2acec44), [**SQL**](https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/5cafb2d937090210d7df3652) & **R**
   
-  - [**Data Science: Analytics Specialist**](https://www.codecademy.com/profiles/Seppito96/certificates/5ff882c953c2ed000e17bf1d)
+  - [**Data Science: Analytics Specialist**](https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/5ff882c953c2ed000e17bf1d)
   
   - [Command Line](https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/c87ba0541f8be78bc2f4ba1128233f6f), [HTML](https://www.codecademy.com/profiles/Josef.Moosholzer/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
 
