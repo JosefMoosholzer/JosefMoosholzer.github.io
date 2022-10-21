@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: by Josef A. Moosholzer
 
 hero_settings:
-  overlay_opacity: 0.99
+  overlay_opacity: 0.2
 
 post_settings:
   grid_spacing: 10
