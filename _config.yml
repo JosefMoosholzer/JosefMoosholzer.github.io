@@ -3,8 +3,6 @@ site: Personal Jekyll Theme
 url: 
 baseurl: 
 
-github: JosefMoosholzer
-linkedin: josef-alexander-moosholzer-819050201
 
 collections:
   pages:
