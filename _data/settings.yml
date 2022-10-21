@@ -61,8 +61,8 @@ social_settings:
   linkedin_url: 'https://www.linkedin.com/in/josef-alexander-moosholzer-819050201/'
 
 color_settings:
-  background_color: '#a6c1da'
-  background_alt_color: '#214464'
+  background_color: '#DDDDDD'
+  background_alt_color: '#bcbcbc'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
