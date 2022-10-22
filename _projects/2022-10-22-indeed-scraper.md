@@ -126,6 +126,7 @@ One key characteristic I am looking for in an employer is a growing data team, w
 ![Top 15 Companies, # of Job Postings & Ratings on Indeed.com](/images/IndeedScraper/Top15Companies.png)
 
 As a follow up, I wanted to see what type of positions they were offering. Blue and orange emphasized business driven and data driven jobs, respectively.
+
 ![Type of Positions recruited at each Company](/images/IndeedScraper/PositionsPerCompany.png)
 
 Companies hiring a *DE* is already a big plus, as it is an indicator that the fundamental infrastructure for a data team is or will be built. Having a *DS* in the company can also be beneficial for my growth as a data worker, because you can always learn a thing or two from *DS*.
