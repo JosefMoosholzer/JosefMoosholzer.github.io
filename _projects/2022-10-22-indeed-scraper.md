@@ -86,7 +86,7 @@ df['Position'] = df.apply(check_job_position, axis=1)
 ```
 
 As a result, you have column called *Position* that takes the value of the first key, for which the *Job Title* matched the pattern of the value.
-You can see the full transformation code here: [Deepnote]([Deepnote](https://deepnote.com/workspace/my-portfolio-jm-58009eb2-6da1-41a2-bb79-31b60e7dd847/project/Data-Analytics-on-Data-Analytics-58d3d682-32e5-4d21-bb24-f77f638c0a70/notebook/2.%20Transform-3c315f9f8ff6482ca9bd4f69016e6d31))
+You can see the full transformation code here: [Deepnote](https://deepnote.com/@my-projects-jm/Data-Analytics-on-Data-Analytics-58d3d682-32e5-4d21-bb24-f77f638c0a70)
 
 ### Load
 
@@ -132,3 +132,5 @@ As a follow up, I wanted to see what type of positions they were offering. Blue 
 Companies hiring a *DE* is already a big plus, as it is an indicator that the fundamental infrastructure for a data team is or will be built. Having a *DS* in the company can also be beneficial for my growth as a data worker, because you can always learn a thing or two from *DS*.
 As a conclusion, Siemens, BMW and Allianz are on a hiring spree, which probably has to do with their HQs being located in Munich. For Allianz, Infineon, E.ON, IDS, and ZEISS I can say with confidence that *DE* will be at place.
 As a last resort BMW, Allianz and Munich RE provide plenty *BI* and *BA* jobs that could serve as an entry job, and from which I then could be internally hired as a Data Analyst.
+
+The complete jupyter notebook (with less description) is available here: [Deepnote](https://deepnote.com/@my-projects-jm/Data-Analytics-on-Data-Analytics-58d3d682-32e5-4d21-bb24-f77f638c0a70)
