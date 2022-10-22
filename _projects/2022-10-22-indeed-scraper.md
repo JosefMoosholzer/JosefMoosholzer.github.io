@@ -14,7 +14,7 @@ featured_image: '/images/IndeedScraper/indeed-scraping.png'
 Data Engineering, Analytics, Science & corresponding Machine Learning Engineering can be an overwhelming field with an even more **overwhelming amount of tools** that *might* be **necessary for landing a job** in that business. Hence, in order to better understand if I am on the right path with Excel, SQL, Python and PowerBI as my *go-to* tools, I decided on checking in on **current job descriptions and the demanded skills**.  
 Again, with Selenium (see Price Research project) I scraped Indeed.com for job postings in Munich, showing up for the keywords...
 
-- *Data Analyst (DA)* 
+- *Data Analyst (DA)*
 
 - *Data Scientist (DS)*
 
