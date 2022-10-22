@@ -3,11 +3,8 @@ title: 'Scraping Job Postings'
 subtitle: 'with Python: Selenium & BeautifulSoup'
 date: 2022-10-01 00:00:00
 description: I queried Indeed.com for jobs with the keywords Data Analyst & Scientist, and Business Analyst & Intelligence to get a sense of the most demanded skills for these positions, and identifying employees with growing data teams.
-featured_image: '/images/IndeedScraper/indeed-logo.jpg'
+featured_image: '/images/IndeedScraper/indeed-scraping.png'
 ---
-
-![IndeedLogo](/images/IndeedScraper/Scraping.png)
-
 # Data Analytics on Data Analytics
 
 ## Purpose
@@ -32,7 +29,7 @@ I followed the classic ETL procedure
 ### Extract
 
 As mentioned before, I used the Selenium library, for the reason that it was necessary to click each *job-beacon* in order to open up the job description.
-I will not go in-depth for the scraping part once more (see Price Research project). However, the code is still available for [download](/downloads/IndeedScraper.py). For it to work on your computer, you require the latest version of both, the [Microsoft Edge driver]("https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/") and the Microsoft Edge browser. The file needs to be started through the command line, whilst passing an argument in for the number of pages for each job, that should be scraped. For example, 5 pages...
+I will not go in-depth for the scraping part once more (see Price Research project). However, the code is still available  [here](https://github.com/JosefMoosholzer/JosefMoosholzer.github.io/blob/main/downloads/IndeedScraper.py). For it to work on your computer, you require the latest version of both, the [Microsoft Edge driver]("https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/") and the Microsoft Edge browser. The file needs to be started through the command line, whilst passing an argument in for the number of pages for each job, that should be scraped. For example, 5 pages...
 
 ```bash
 python IndeedScraper.py 5
@@ -41,4 +38,4 @@ python IndeedScraper.py 5
 For this project, I spread the scraping over many days, for two reasons:
 - Not being flagged by Indeed as a bot (in case they had an algorithm that was trying to catch some).
 - Still achieving a great sample size.
-The result were dozens of [csv-files](/downloads/data.zip) that needed to be merged first.
+The result were dozens of [csv-files](https://github.com/JosefMoosholzer/JosefMoosholzer.github.io/raw/main/downloads/data.zip) that needed to be merged first.
