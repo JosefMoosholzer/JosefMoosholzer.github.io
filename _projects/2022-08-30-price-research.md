@@ -1,9 +1,9 @@
 ---
 title: Researching competitors' prices
-subtitle: with Python: Selenium and BeautifulSoup
+subtitle: 'with Python: Selenium and BeautifulSoup'
 date: 2022-08-30 00:00:00
 description: Querying market prices from competing retailers to reevaluate own price positionings.
-featured_image: /images/IndeedScraper/indeed-scraping.png
+featured_image: /images/PriceResearch/IVECO_Hero.png
 ---
 # Price research
 ## Backstory
@@ -33,4 +33,6 @@ You can try it yourself, just contact me via [E-Mail](mailto:jamoosholzer@hotmai
 
 Once all the PNs have been queried, the file is saved in an Excel sheet for further inspection.
 
-Hence, I am left to give a **simple visualization** that is providing information about the **distribution of prices for each PN**, **coloring each retailer** differently, but also pointing out the **medians** of said price distributions.
+Hence, I am left to give you a **simple visualization** that is providing information about the **distribution of prices for each PN**, **coloring each retailer** differently, but also pointing out the **medians** of said price distributions.
+
+![Scatterplot and Errorbar](/images/PriceResearch/ScrapeResult.png)
