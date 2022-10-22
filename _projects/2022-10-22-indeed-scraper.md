@@ -132,8 +132,14 @@ However, I can live with that, as the top 3 positions are currently of most inte
 
 One key characteristic I am looking for in an employer is a growing data team, where I can learn and collaborate with others. I also wanna avoid any *DA* job that deep down is actually a *DE* job. Hence, I took a closer look at the top 15 companies with regards to job offerings found and their rating on Indeed.com
 
-[Top 15 Companies, # of Job Postings & Ratings on Indeed.com](/images/IndeedScraper/Top15Companies.png)
+![Top 15 Companies, # of Job Postings & Ratings on Indeed.com](/images/IndeedScraper/Top15Companies.png)
 
 As a follow up, I wanted to see what type of positions they were offering. Blue and orange emphasized business driven and data driven jobs, respectively.
 
-[Type of Positions recruited at each Company](/images/IndeedScraper/PositionsPerCompany.png)
+![Type of Positions recruited at each Company](/images/IndeedScraper/PositionsPerCompany.png)
+
+Companies hiring a *DE* is already a big plus, as it is an indicator that the fundamental infrastructure for a data team is or will be built. Having a *DS* in the company can also be beneficial for my growth as a data worker, because you can always learn a thing or two from *DS*.
+
+As a conclusion, Siemens, BMW and Allianz are on a hiring spree, which probably has to do with their HQs being located in Munich. For Allianz, Infineon, E.ON, IDS, and ZEISS I can say with confidence that *DE* will be at place.
+
+As a last resort BMW, Allianz and Munich RE provide plenty *BI* and *BA* jobs that could serve as an entry job, and from which I then could be internally hired as a Data Analyst.
