@@ -1,7 +1,7 @@
 ---
 title: About me
-subtitle: 'Hey! 👋🏼  My name is Josef Alexander Moosholzer, and I am an aspiring Data Analyst.
-If you have not read my CV yet, here is a quick summary.
+subtitle: 'Hey! 👋🏼  My name is Josef Alexander Moosholzer, and I am an aspiring Data Analyst.  
+If you have not read my CV yet, here is a quick summary.  
 Otherwise, you can visit my blog to find out about my hobbies.'
 description: About me page & CV, Josef A. Moosholzer.
 featured_image: /images/demo/about.jpg
