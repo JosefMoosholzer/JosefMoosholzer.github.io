@@ -10,14 +10,6 @@
 
 .header {
 	margin-top: 20px;
-
-	@include mq(tabletp) {
-		margin-top: 25px;
-	}
-
-	@include mq(laptop) {
-		margin-top: 30px;
-	}
 }
 
 .header__logo {
