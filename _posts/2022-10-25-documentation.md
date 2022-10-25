@@ -1,9 +1,9 @@
 ---
-title: 'Note to myself: Start documenting your work!'
-subtitle: 'A reminder that documentation benefits the author the most.'
+title: 'A reminder that documentation benefits the author the most.'
+subtitle: 'Note to myself: Start documenting your work!'
 date: 2022-10-25 00:00:00
 description: My painful journey towards understanding the importance of documenting my workflow.
-featured_image: '/images/Doggo.jpg'
+featured_image: '/images/BlogHeros/Doggo.jpg'
 ---
 
 # Regret
@@ -41,7 +41,7 @@ Which perfectly describes the situation I found myself in during January. Eager 
 Luckily, I had the older file as a comparable model on how (not) to do it and I constantly received feedback from my boss who kept me on the right track.
 But even with the file finally set and done, from time to time the necessity for minor adjustments makes me go back (e.g. PowerQuery) to parts of my code, and it takes some minutes before I know where I need to change something.
 
-With all that said, in the following I will list the benefits and cons that come to my mind about documentation, so that this concept becomes ingrained into my workflow.
+With all that said, as a conclusion I will list the benefits and cons that come to my mind about documentation, so that this concept becomes ingrained into my workflow.
 ## Benefits
 * Makes the undertaken measures clear to everyone.
 * Co-workers can retrieve information from the docs (less E-Mails).
