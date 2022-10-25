@@ -123,6 +123,7 @@ However, I can live with that, as the top 3 positions are currently of most inte
 ##### Companies of interest
 
 One key characteristic I am looking for in an employer is a growing data team, where I can learn and collaborate with others. I also wanna avoid any *DA* job that deep down is actually a *DE* job. Hence, I took a closer look at the top 15 companies with regards to job offerings found and their rating on Indeed.com
+
 ![Top 15 Companies, # of Job Postings & Ratings on Indeed.com](/images/IndeedScraper/Top15Companies.png)
 
 As a follow up, I wanted to see what type of positions they were offering. Blue and orange emphasized business driven and data driven jobs, respectively.
