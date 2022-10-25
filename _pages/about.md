@@ -9,6 +9,8 @@ featured_image: /images/demo/about.jpg
 
 # CV
 
+---
+
 ## Academic experience
 - Graduated in 2014 from the European School of Munich
 - Achieved my **Bachelor's degree in Business Administration** in 2018 at the Ludwig-Maximilian
