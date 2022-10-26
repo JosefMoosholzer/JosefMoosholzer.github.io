@@ -1,7 +1,7 @@
 ---
 title: 'My relationship with discovery.'
 subtitle: 'A deeper reflection.'
-date: 2022-10-27 00:00:00
+date: 2022-10-26 17:00:00
 description: How my unhealthy behavior towards the new could be hindering long-term interest.
 featured_image: '/images/BlogHeros/Rolltreppe_Freimann.jpg'
 ---
