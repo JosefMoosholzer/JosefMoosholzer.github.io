@@ -1,9 +1,9 @@
 ---
-title: 'A reminder that documentation benefits the author the most.'
+title: A reminder that documentation benefits the author the most.
 subtitle: 'Note to myself: Start documenting your work!'
 date: 2022-10-25 00:00:00
 description: My painful journey towards understanding the importance of documenting my workflow.
-featured_image: '/images/BlogHeros/Doggo.jpg'
+featured_image: /images/BlogHeros/Doggo.jpg
 ---
 
 # Regret
@@ -15,7 +15,7 @@ But with time I proved my Excel skills to my boss. From smaller twists, like a d
 
 I did most of these things in a single workday, after coming up with the idea. So, why would I need to write these things down? It can't be that complex, right...?  
 Well, this is where the problem started. With my boss gaining confidence in my abilities, he let go of our central reporting file (Excel) and delegated the responsibility onto me &#151; I finally I was assigned a bigger task!  
-When the reporting file needed a new functionality or something wasn't working, it was, for the most part, outsourced. I was included in the meetings where my boss defined the requirements, but for the most part I was struggling. Not only did I had to catch up on the structure of the file and the tools it used (PowerQuery, PowerPivot, and VBA) but also on the field knowledge and sales structure. Hence, when I got that file assigned I tried to understand every little detail of it. My conclusion: it's a big f&#8727;&#8727;&#8727;&#8727;&#8727;&#8727; mess.
+Previously, when the reporting file needed a new functionality or something wasn't working, it was, for the most part, outsourced. I was included in the meetings where my boss defined the requirements, but for the most part I was struggling. Not only did I had to catch up on the structure of the file and the tools it used (PowerQuery, PowerPivot, and VBA) but also on the field knowledge and sales structure. Hence, when I got that file assigned I tried to understand every little detail of it. My conclusion: it's a big f&#8727;&#8727;&#8727;&#8727;&#8727;&#8727; mess.
 * nomenclature was inconsistent
 * some queries & connections existed which were not necessary/used
 * measures were written inefficently

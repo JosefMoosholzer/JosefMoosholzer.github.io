@@ -1,9 +1,9 @@
 ---
-title: 'Scraping & Analyzing Job Postings'
-subtitle: 'with Python: Pandas, Seaborn, Selenium, and BeautifulSoup, '
+title: Scraping & Analyzing Job Postings
+subtitle: 'with Python: Pandas, Seaborn, Selenium, and BeautifulSoup.'
 date: 2022-10-01 00:00:00
 description: I queried Indeed.com for jobs with the keywords Data Analyst & Scientist, and Business Analyst & Intelligence to get a sense of the most demanded skills for these positions, and identifying employees with growing data teams.
-featured_image: '/images/IndeedScraper/indeed-scraping.png'
+featured_image: /images/IndeedScraper/indeed-scraping.png
 
 ---
 

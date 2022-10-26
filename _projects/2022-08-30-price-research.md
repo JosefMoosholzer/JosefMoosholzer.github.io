@@ -1,6 +1,6 @@
 ---
 title: Researching competitors' prices
-subtitle: 'with Python: Selenium and BeautifulSoup'
+subtitle: 'with Python: Selenium and BeautifulSoup.'
 date: 2022-08-30 00:00:00
 description: Querying market prices from competing retailers to reevaluate own price positionings.
 featured_image: /images/PriceResearch/IVECO_Hero.png
