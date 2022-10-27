@@ -1,7 +1,7 @@
 ---
 title: A reminder that documentation benefits the author the most.
 subtitle: 'Note to myself: Start documenting your work!'
-date: 2022-10-25 00:00:00
+date: 2022-10-24 00:00:00
 description: My painful journey towards understanding the importance of documenting my workflow.
 featured_image: /images/BlogHeros/Doggo.jpg
 ---
