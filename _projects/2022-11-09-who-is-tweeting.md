@@ -16,6 +16,10 @@ For everyone living under a rock, Donald J. Trump was suspended from Twitter fol
 
 For Joe Biden, I found a dataset on <a href="https://www.kaggle.com/datasets/rohanrao/joe-biden-tweets?resource=download">Kaggle</a>. However, they did not include tweets from November 2020 onwards. Hence, I accessed the Twitter-API, which luckily gave me tweets reaching further back, than the other dataset's last entry. On my [*GitHub*](https://github.com/JosefMoosholzer/JosefMoosholzer.github.io/blob/main/downloads/IndeedScraper.py) you can see the code created in order to retrieve the tweets from the Twitter-API.
 
+### Funfact!
+> MAKE AMERICA GREAT AGAIN!
+... was posted 51 times in all-caps without any further context.
+
 ## Transformation & loading
 The full transformation can be seen in the [DeepNote project](https://deepnote.com/@my-projects-jm/Biden-vs-Trump-Who-tweeted-6acfb9ee-5808-4be9-af50-2e63ffd088a4).
 As a quick summary, Joe Biden's tweets had to be checked for duplicates, but both datasets included the Tweet-ID, so that was no problem. Tweets only including a Twitter link were removed, and Twitter links were removed in general.
@@ -38,9 +42,17 @@ For the Naive Bayes, I randomized the train and test samples 100 times. The resu
 | Mean                  | 0.7746 | 0.6808               | 0.7746 |
 | Std                   | 0.01   | 0.036                | 0.01   |
 | Min                   | 0.7548 | 0.6307               | 0.7457 |
-| 25-percentile         | 0.7669 | 0.6443               | 0.7669 |
+| 25%                   | 0.7669 | 0.6443               | 0.7669 |
 | Median                | 0.7749 | 0.7024               | 0.7744 |
-| 75-percentile         | 0.7832 | 0.7137               | 0.7823 |
+| 75%                   | 0.7832 | 0.7137               | 0.7823 |
 | Max                   | 0.8002 | 0.7302               | 0.7937 |
 
-As we can see
+As for the model without stop words accuracy scores are much lower, while the other two score very similar throughout.
+
+Looking at the confusion matrices it becomes clear that the model excluding stop words is struggling to properly classifying tweets from Joe Biden.
+Considering the other two, the tf-idf model is slightly better with Biden's tweets, and the count model is better with Trump's tweets.
+<div class="gallery" data-columns="3">
+    <img src="/images/WhoIsTweeting/tfidf_nsw_cm.png">
+    <img src="/images/WhoIsTweeting/tfidf_cm.png">
+    <img src="/images/WhoIsTweeting/count_cm.png">
+</div>
