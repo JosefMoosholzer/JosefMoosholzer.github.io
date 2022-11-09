@@ -31,12 +31,16 @@ In NLP it is also common to exclude stop words that do not give any insight on t
 For the models I took a Naive Bayes approach to see which vectorization is the most appropriate and a Linear Support Vector Classifier to later graph the key words that are the most related to each U.S. President.
 
 ## Results
-| Descriptive Statistic | tf-idf | tf-idf no stop words | count |
-| ---------------------:|:----- |:--------------------  |:----- |
-| Mean                  |0.7746 |0.6808                 |0.7746 |
-| Std                   |0.01   |0.036                  |0.01   |
-| Min                   |0.7548 |0.6307                 |0.7457 |
-| 25-percentile         |0.7669 |0.6443                 |0.7669 |
-| Median                |0.7749 |0.7024                 |0.7744 |
-| 75-percentile         |0.7832 |0.7137                 |0.7823 |
-| Max                   |0.8002 |0.7302                 |0.7937 |
+For the Naive Bayes, I randomized the train and test samples 100 times. The resulting accuracy scores are summarized in the following table.
+
+| descriptive statistic | tf-idf | tf-idf no stop words | count  |
+| --------------------: | :----- | :------------------- | :----- |
+| Mean                  | 0.7746 | 0.6808               | 0.7746 |
+| Std                   | 0.01   | 0.036                | 0.01   |
+| Min                   | 0.7548 | 0.6307               | 0.7457 |
+| 25-percentile         | 0.7669 | 0.6443               | 0.7669 |
+| Median                | 0.7749 | 0.7024               | 0.7744 |
+| 75-percentile         | 0.7832 | 0.7137               | 0.7823 |
+| Max                   | 0.8002 | 0.7302               | 0.7937 |
+
+As we can
