@@ -2,10 +2,10 @@
 title: 'Trump or Biden: Who is tweeting?'
 subtitle: 'with Python: gensim, scikit-learn and matplotlib.'
 date: 2022-11-09 00:00:00
-description: I used Natural Language Processing to train a model to differentiate between Donald J. Trump and Joe Biden tweets. Various models were used to see which fits the best.
+description: I used Natural Language Processing for machine learning, to differentiate between the tweets by the two major candidates of the 46th presidential election in the U.S. Various models were used to identify the best and most robust fit.
 featured_image: /images/WhoIsTweeting/Trump_vs_Biden.png
 ---
-# An NLP analysis on the tweets by the two major candidates of the 46th presidential election in the U.S.
+# An NLP analysis.
 ## Preparation
 Before starting this project I had some rough knowledge on the concept of bag-of-words for the vectorization of text-documents, as I had to reconstruct Google's algorithm on identifying article-simlarity for one of my courses in my Information Systems program. In that course I also learned about tf-idf (term frequency, inverse document frequency), which is a model where each word is given a weight that increases with the frequency of that word in that specific text (tweet) but decreases in importance if that word is encountered in most texts. Hence, overall rare words, though frequently present in a specific text characterize that text the most.
 
@@ -31,12 +31,12 @@ In NLP it is also common to exclude stop words that do not give any insight on t
 For the models I took a Naive Bayes approach to see which vectorization is the most appropriate and a Linear Support Vector Classifier to later graph the key words that are the most related to each U.S. President.
 
 ## Results
-| descriptive statistic | tf-idf | tf-idf no stop words | count |
-| --------------------- | ------ | -------------------- | ----- |
-| Mean                  | 0.7746 | 0.6808 | 0.7746 |
-| Std                   | 0.01   | 0.036  | 0.01   |
-| Min                   | 0.7548 | 0.6307 | 0.7457 |
-| 25-percentile         | 0.7669 | 0.6443 | 0.7669 |
-| Median                | 0.7749 | 0.7024 | 0.7744 |
-| 75-percentile         | 0.7832 | 0.7137 | 0.7823 |
-| Max                   | 0.8002 | 0.7302 | 0.7937 |
+| Descriptive Statistic | tf-idf | tf-idf no stop words | count |
+| ---------------------:|:----- |:--------------------  |:----- |
+| Mean                  |0.7746 |0.6808                 |0.7746 |
+| Std                   |0.01   |0.036                  |0.01   |
+| Min                   |0.7548 |0.6307                 |0.7457 |
+| 25-percentile         |0.7669 |0.6443                 |0.7669 |
+| Median                |0.7749 |0.7024                 |0.7744 |
+| 75-percentile         |0.7832 |0.7137                 |0.7823 |
+| Max                   |0.8002 |0.7302                 |0.7937 |
