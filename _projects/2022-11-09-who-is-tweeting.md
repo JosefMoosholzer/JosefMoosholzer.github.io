@@ -35,6 +35,7 @@ In NLP it is also common to exclude stop words that do not give any insight on t
 For the models I took a Naive Bayes approach to see which vectorization is the most appropriate and a Linear Support Vector Classifier to later graph the key words that are the most related to each U.S. President.
 
 ## Results
+### Accuracy
 For the Naive Bayes, I randomized the train and test samples 100 times. The resulting accuracy scores are summarized in the following table.
 
 | descriptive statistic | tf-idf | tf-idf no stop words | count  |
@@ -49,10 +50,22 @@ For the Naive Bayes, I randomized the train and test samples 100 times. The resu
 
 As for the model without stop words accuracy scores are much lower, while the other two score very similar throughout.
 
+### Confusion matrices
 Looking at the confusion matrices it becomes clear that the model excluding stop words is struggling to properly classifying tweets from Joe Biden.
 Considering the other two, the tf-idf model is slightly better with Biden's tweets, and the count model is better with Trump's tweets.
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
     <img src="/images/WhoIsTweeting/tfidf_nsw_cm.png">
     <img src="/images/WhoIsTweeting/tfidf_cm.png">
     <img src="/images/WhoIsTweeting/count_cm.png">
 </div>
+
+### Top words
+Lastly, we can take a look at the top features of the SVC model. The features with a red bar resemble key words that would make a tweet more likely to be authored by Trump, while the blue bars belong to Biden's favorite words. Interestingly, there are not many key words that are related to Trump.
+![Most significant key words](/images/WhoIsTweeting/top_keywords.png)
+
+When including stop words, on the other hand, one can see clear differences in the use of pronouns. Biden is more inclusive with ***we*** and ***us***, and Trump rather refers to others with ***they***. Furthermore, Trump has a more definite tone using words like ***very***, ***will***, ***was***, ***are*** and ***has***. Biden is softer in that sense, speaking of ***need*** and ***can***.
+![Most significant words](/images/WhoIsTweeting/top_words.png)
+
+### Wordcloud!
+I always wanted to make a WordCloud and this is the perfect (and only) opportunity for it. Here, english stop-words are excluded with the gensim library.
+![Wordcloud masked with Trump and Biden](/images/WhoIsTweeting/wordcloud.png)
