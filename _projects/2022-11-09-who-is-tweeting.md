@@ -34,7 +34,7 @@ For the models I took a Naive Bayes approach to see which vectorization is the m
 For the Naive Bayes, I randomized the train and test samples 100 times. The resulting accuracy scores are summarized in the following table.
 
 | descriptive statistic | tf-idf | tf-idf no stop words | count  |
-| --------------------: | :----- | :------------------- | :----- |
+| :-------------------- | -----: | -------------------: | -----: |
 | Mean                  | 0.7746 | 0.6808               | 0.7746 |
 | Std                   | 0.01   | 0.036                | 0.01   |
 | Min                   | 0.7548 | 0.6307               | 0.7457 |
@@ -43,4 +43,4 @@ For the Naive Bayes, I randomized the train and test samples 100 times. The resu
 | 75-percentile         | 0.7832 | 0.7137               | 0.7823 |
 | Max                   | 0.8002 | 0.7302               | 0.7937 |
 
-As we can
+As we can see
