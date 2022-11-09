@@ -18,7 +18,8 @@ For Joe Biden, I found a dataset on <a href="https://www.kaggle.com/datasets/roh
 
 ### Funfact!
 > MAKE AMERICA GREAT AGAIN!
-... was posted 51 times in all-caps without any further context.
+
+... was posted by Trump 51 times in all-caps and without any further context.
 
 ## Transformation & loading
 The full transformation can be seen in the [DeepNote project](https://deepnote.com/@my-projects-jm/Biden-vs-Trump-Who-tweeted-6acfb9ee-5808-4be9-af50-2e63ffd088a4).
@@ -53,6 +54,7 @@ As for the model without stop words accuracy scores are much lower, while the ot
 ### Confusion matrices
 Looking at the confusion matrices it becomes clear that the model excluding stop words is struggling to properly classifying tweets from Joe Biden.
 Considering the other two, the tf-idf model is slightly better with Biden's tweets, and the count model is better with Trump's tweets.
+
 <div class="gallery" data-columns="1">
     <img src="/images/WhoIsTweeting/tfidf_nsw_cm.png">
     <img src="/images/WhoIsTweeting/tfidf_cm.png">
@@ -61,11 +63,14 @@ Considering the other two, the tf-idf model is slightly better with Biden's twee
 
 ### Top words
 Lastly, we can take a look at the top features of the SVC model. The features with a red bar resemble key words that would make a tweet more likely to be authored by Trump, while the blue bars belong to Biden's favorite words. Interestingly, there are not many key words that are related to Trump.
+
 ![Most significant key words](/images/WhoIsTweeting/top_keywords.png)
 
 When including stop words, on the other hand, one can see clear differences in the use of pronouns. Biden is more inclusive with ***we*** and ***us***, and Trump rather refers to others with ***they***. Furthermore, Trump has a more definite tone using words like ***very***, ***will***, ***was***, ***are*** and ***has***. Biden is softer in that sense, speaking of ***need*** and ***can***.
+
 ![Most significant words](/images/WhoIsTweeting/top_words.png)
 
 ### Wordcloud!
 I always wanted to make a WordCloud and this is the perfect (and only) opportunity for it. Here, english stop-words are excluded with the gensim library.
+
 ![Wordcloud masked with Trump and Biden](/images/WhoIsTweeting/wordcloud.png)
