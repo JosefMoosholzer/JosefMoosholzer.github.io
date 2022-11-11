@@ -66,7 +66,7 @@ Lastly, we can take a look at the top features of the SVC model. The features wi
 
 ![Most significant key words](/images/WhoIsTweeting/top_keywords.png)
 
-When including stop words, on the other hand, one can see clear differences in the use of pronouns. Biden is more inclusive with ***we*** and ***us***, and Trump rather refers to others with ***they***. Furthermore, Trump has a more definite tone using words like ***very***, ***will***, ***was***, ***are*** and ***has***. Biden is softer in that sense, speaking of ***need*** and ***can***.
+When including stop words, on the other hand, one can see clear differences in the use of pronouns. Biden is more inclusive with ***we*** and ***us*** in addition to ***nation***, ***america/n*** and ***countr***, and Trump rather refers to others with ***they***. Furthermore, Trump has a more definite tone using words like ***very***, ***has***, ***was***, and ***is***. Biden is problem focused, speaking of ***need*** and ***make***. Pointing out problems might also be a more favorable approach for the candidate running for the opposition.
 
 ![Most significant words](/images/WhoIsTweeting/top_words.png)
 
