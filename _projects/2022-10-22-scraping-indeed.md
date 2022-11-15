@@ -134,3 +134,5 @@ As a conclusion, Siemens, BMW and Allianz are on a hiring spree, which probably 
 As a last resort BMW, Allianz and Munich RE provide plenty *BI* and *BA* jobs that could serve as an entry job, and from which I then could be internally hired as a Data Analyst.
 
 The complete jupyter notebook (with less description) is available here: [Deepnote](https://deepnote.com/@my-projects-jm/Data-Analytics-on-Data-Analytics-58d3d682-32e5-4d21-bb24-f77f638c0a70)
+
+A more extensive data visualization can be found on [Tableau](https://public.tableau.com/app/profile/josef.alexander.moosholzer/viz/JobPostingsonIndeed/Story1)
