@@ -4,9 +4,7 @@ description: 'A collection of some of my favorite color palettes.'
 featured_image: /images/Colors/Tableau_Logo.jpg
 ---
 
-'''tps
-<?xml version='1.0'?>
-
+'''html
 <workbook>
 	<preferences>
 		<color-palette name="Orange-Blue" type="regular">
@@ -23,8 +21,8 @@ featured_image: /images/Colors/Tableau_Logo.jpg
 			<color>#084085</color>
 			<color>#005ea8</color>
 			<color>#0271c2</color>
-			<color>#ecf7fd</color>
 			<color>#c1e3e3</color>
+			<color>#ecf7fd</color>
 			<color>#ffbb1c</color>
 		</color-palette>
 	</preferences>
