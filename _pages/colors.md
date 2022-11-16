@@ -1,6 +1,6 @@
 ---
 title: My color palettes! 📊
-description: 'A collection of some of my favorite color palettes.'
+subtitle: 'A collection of some of my favorite color palettes.'
 featured_image: /images/Colors/Tableau_Logo.jpg
 ---
 
