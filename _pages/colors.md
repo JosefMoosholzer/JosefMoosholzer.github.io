@@ -54,6 +54,7 @@ featured_image: /images/Colors/Tableau_Logo.jpg
 			<color>#c0c5ce</color>
 		</color-palette>
 	</preferences>
+</workbook>
 ```
 
 This includes...
