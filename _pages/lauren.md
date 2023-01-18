@@ -45,7 +45,7 @@ When we first got to know each other. You described yourself as a person who sou
 
 # Times are tough
 ...for both of us. It hurts me too. I have committed to this relationship. 
-I have never before opened up to anyone emotionally. And never thought I have done to such extent in my life. But I did. 
+I have never before opened up to anyone emotionally. And never thought I would have done it to such an extent in my life. But I did.  
 I always thought that I would go crazy being around a person for such long periods. But I didn't.
 
 But here I am. And you are sitting right there. Giving me a weird look, I reciprocate. You signal me with your finger to come over, I make baby steps. You quickly glance to your left, I take a glance too. Another baby step. We repeat, until I am standing right next to you. We break out in laughter.  
