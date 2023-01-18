@@ -45,7 +45,7 @@ You might have changed, or I stopped being one of them...
 I have never before opened up to anyone emotionally. And never thought I have done to such extent in my life. But I did. 
 I always thought that I would go crazy being around a person for such long periods. But I didn't.
 
-But here I am. And you are sitting right there. Giving me a weird look, I reciprocate. You signal me with your finger to come over, I make baby steps. You quickly glance next to you, I take a glance too. Another baby step. We repeat, until I am next to you. We break out in laughter. 
+But here I am. And you are sitting right there. Giving me a weird look, I reciprocate. You signal me with your finger to come over, I make baby steps. You quickly glance to your left, I take a glance too. Another baby step. We repeat, until I am standing right next to you. We break out in laughter. 
 You tell me you love me.
 
 And I love you too 😘
