@@ -26,13 +26,14 @@ In short, the usability and scalability was clearly lacking.
 ## the Alternative
 When my girlfriend told me that this project has no use, unless you can generate workouts straight through a smartphone, I had to deploy my project to the web. Django came first to my mind, but since my progress on [Codecademy's Django-course](https://www.codecademy.com/learn/paths/build-python-web-apps-with-django) is currently around 50%, I decided on [Streamlit](https://streamlit.io/), which I came accross through one of [Shashank Kalanithi](https://www.youtube.com/@ShashankData)'s videos, since it is a tool that is much easier to implement without any deeper knowledge on web design and CRUD-methods.
 
-For this project it seemed to be sufficient enough to provide the tools to deploy my workout generator to the web. I think that Streamlit can be a very handy possibility for Data Analysts to quickly deploy a reporting system to outside stakeholders, and so I was keen to learn it.
+For this project it seemed to be sufficient enough to provide the tools to deploy my workout generator to the web. I think that Streamlit can be a very handy possibility for Data Analysts to quickly deploy a reporting system to outside stakeholders, and so I was keen to learn it on the fly.
 
 # Methods
 # the Database
-Since the usability became one of the KPIs of this project I wanted to have a list of exercises that I was able to change through my phone and laptop, so I was able to not only add new exercises that came to my mind, but more importantly, I could adjust the repetitions
+Since the usability became one of the KPIs of this project I wanted to have a list of exercises that I was able to change through my phone and laptop, so I not only would be able to add new exercises that came to my mind, but more importantly, I could adjust the intensity of exercises, whenever I was at the gym and the workout was too easy or too hard.
 
 <a id='the-idea'>test</a>
+<a href=#the-idea>test2</a>
 
 
 https://github.com/JosefMoosholzer/WorkoutGenerator
