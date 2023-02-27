@@ -21,7 +21,7 @@ At first, I did not consider building a web app, and instead I remembered the [T
 
 Furthermore, the prototype was an a python file that I had to run from the terminal of my computer. Hence, I had to remember to run the script before I headed out to the gym.
 
-In short, the usability and scalability was clearly lacking.
+**In short, the usability and scalability was clearly lacking.**
 
 ## the Alternative
 When my girlfriend told me that this project has no use, unless you can generate workouts straight through a smartphone, I had to deploy my project to the web. Django came first to my mind, but since my progress on [Codecademy's Django-course](https://www.codecademy.com/learn/paths/build-python-web-apps-with-django) is currently around 50%, I decided on [Streamlit](https://streamlit.io/), which I came accross through one of [Shashank Kalanithi](https://www.youtube.com/@ShashankData)'s videos, since it is a tool that is much easier to implement without any deeper knowledge on web design and CRUD-methods.
@@ -32,8 +32,10 @@ For this project it seemed to be sufficient enough to provide the tools to deplo
 # the Database
 Since the usability became one of the KPIs of this project I wanted to have a list of exercises that I was able to change through my phone and laptop, so I not only would be able to add new exercises that came to my mind, but more importantly, I could adjust the intensity of exercises, whenever I was at the gym and the workout was too easy or too hard.
 
+Something I have also started using since February is [Notion](https://notion.so), which I have been confronted with many times before, but only recently have fallen in love with it. Luckily for me, Notion turned out to be the perfect fit for listing exercises since it provides an API that enables Python to access my notes in real-time.
+
 <a id='the-idea'>test</a>
-<a href=#the-idea>test2</a>
+<a href="#the-idea">test2</a>
 
 
 https://github.com/JosefMoosholzer/WorkoutGenerator
